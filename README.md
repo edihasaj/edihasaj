@@ -4,6 +4,8 @@
 
 It makes me so happy 😄 to see that my projects interest someone else and together we are building something useful.
 
+⚡You can use my [Developer Tools](https://tools.hasaj.net) if you are a developer.
+
 <!--
 **edihasaj/edihasaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
