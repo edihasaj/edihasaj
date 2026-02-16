@@ -18,15 +18,15 @@
 ## Apps
 
 - 🗣️ **[Dialekt AI](https://dialektai.com)** AI-powered language learning
-- 🤖 **[Agentic Suite](https://agenticsuite.com)** Suite of AI agent tools
-- 📺 **[Teleprompt Overlay](https://telepromptoverlay.com)** Teleprompter overlay for presentations
-- 🔗 **[EmbedLink](https://embedlink.io)** Link embedding made simple
-- ⚡ **[Zapfeed](https://zapfeed.app)** Real-time feed aggregation
-- 📶 **[BLE Priority](https://blepriority.com)** Bluetooth Low Energy device management
+- 🤖 **[Agentic Suite](https://agenticsuite.io)** Suite of AI agent tools
+- 📺 **[Teleprompt Overlay](https://teleprompt.applifyer.com)** Teleprompter overlay for presentations
+- 🔗 **[EmbedLink](https://embed-link.com)** Link embedding made simple
+- ⚡ **[Zapfeed](https://zapfeed.io)** Real-time feed aggregation
+- 📶 **[BLE Priority](https://play.google.com/store/apps/details?id=com.applifyer.blepriority)** Bluetooth Low Energy device management
 - 🧩 **[Problem Digest](https://problemdigest.com)** Curated problem-solving resources
-- 📊 **[MetricShot](https://metricshot.com)** Quick metric snapshots and analytics
-- 💰 **[Price&Promotion Engine](https://priceandpromotion.com)** Pricing and promotion management
-- 🏢 **[XK Business Entities](https://xkbusinessentities.com)** Kosovo business entity registry
+- 📊 **[MetricShot](http://metricshot.dev)** Quick metric snapshots and analytics
+- 💰 **[Price&Promotion Engine](https://pricepromoengine.com)** Pricing and promotion management
+- 🏢 **[XK Business Entities](https://xk-business.applifyer.com)** Kosovo business entity registry
 - 🚀 **[Starterbase](https://starterbase.dev)** SaaS starter templates
 - 🧾 **[Invoicing](https://invoicing.applifyer.com)** Simple invoicing platform
 - 🇪🇺 **[Eunifyer](https://eunifyer.app)** Cloud-based solution for Europe
