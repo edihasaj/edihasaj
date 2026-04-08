@@ -29,9 +29,9 @@
 - 🏢 **[XK Business Entities](https://xk-business.applifyer.com)** Kosovo business entity registry
 - 🚀 **[Starterbase](https://starterbase.dev)** SaaS starter templates
 - 🧾 **[Invoicing](https://invoicing.applifyer.com)** Simple invoicing platform
+- 🇪🇺 **[Eunifyer](https://eunifyer.app)** Cloud-based solution for Europe
 - 🐦 **[ChirpGo](https://chirpgo.app)** On-device AI voice-to-text for macOS (50+ languages, fully offline)
 - 💸 **[SettleLoop](http://settle-loop.applifyer.com)** Split expenses and settle up with friends
-- 🇪🇺 **[Eunifyer](https://eunifyer.app)** Cloud-based solution for Europe
 
 ## Open Source
 
