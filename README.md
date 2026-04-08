@@ -49,7 +49,8 @@
 
 - 🛡️ **Defense AI Systems** Secure RAG and MCP servers for military applications at NATO Vendor
 - 🏬 **Enterprise ERP Replacement** Fully replaced Microsoft Dynamics NAV for Sweden's largest resellers
-- 🔒 **SOC 2-Ready Payroll Platform** Halved processing time and reduced maintenance costs- 🛡️ **AI Fraud Detection** Platform protecting seniors and businesses from online scams
+- 🔒 **SOC 2-Ready Payroll Platform** Halved processing time and reduced maintenance costs
+- 🛡️ **AI Fraud Detection** Platform protecting seniors and businesses from online scams
 - 📡 **Radar Classification** >95% precision for drone vs. bird detection in critical infrastructure
 - 🌍 **Kosovo's National Water Information System** Mission-critical GIS platform used daily by government agencies
 
