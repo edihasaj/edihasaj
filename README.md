@@ -21,7 +21,7 @@
 - 🤖 **[Agentic Suite](https://agenticsuite.io)** Suite of AI agent tools
 - 📺 **[Teleprompt Overlay](https://teleprompt.applifyer.com)** Teleprompter overlay for presentations
 - 🔗 **[EmbedLink](https://embed-link.com)** Link embedding made simple
-- ⚡ **[Zapfeed](https://zapfeed.io)** Real-time feed aggregation
+- 🐛 **[Zapfeed](https://zapfeed.io)** Bug board and help center
 - 📶 **[BLE Priority](https://play.google.com/store/apps/details?id=com.applifyer.blepriority)** Bluetooth Low Energy device management
 - 🧩 **[Problem Digest](https://problemdigest.com)** Curated problem-solving resources
 - 📊 **[MetricShot](http://metricshot.dev)** Quick metric snapshots and analytics
@@ -29,6 +29,8 @@
 - 🏢 **[XK Business Entities](https://xk-business.applifyer.com)** Kosovo business entity registry
 - 🚀 **[Starterbase](https://starterbase.dev)** SaaS starter templates
 - 🧾 **[Invoicing](https://invoicing.applifyer.com)** Simple invoicing platform
+- 🐦 **[ChirpGo](https://chirpgo.app)** On-device AI voice-to-text for macOS (50+ languages, fully offline)
+- 💸 **[SettleLoop](http://settle-loop.applifyer.com)** Split expenses and settle up with friends
 - 🇪🇺 **[Eunifyer](https://eunifyer.app)** Cloud-based solution for Europe
 
 ## Open Source
