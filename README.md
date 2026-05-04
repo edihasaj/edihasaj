@@ -57,6 +57,7 @@ AI-first systems, cloud ERP (One replacing Microsoft Dynamics NAV), fraud detect
 ## Latest Blog Posts from edihasaj.com
 
 <!-- BLOG-POST-LIST:START -->
+- [2026 is going to be the year of open source](https://edihasaj.com/posts/2026-is-going-to-be-the-year-of-open-source)
 - [Blogging’s AI Evolution: Why Human Stories Matter More Than Ever](https://edihasaj.com/posts/blogging-s-ai-evolution)
 - [The Engineer’s Guide to ERP Migration: How We Left Dynamics NAV Behind](https://edihasaj.com/posts/the-engineers-guide-to-erp-migraition-how-we-left-navision-behind)
 <!-- BLOG-POST-LIST:END -->
@@ -67,4 +68,3 @@ AI-first systems, cloud ERP (One replacing Microsoft Dynamics NAV), fraud detect
 [![Website](https://img.shields.io/badge/-edihasaj.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://edihasaj.com)
 [![LinkedIn](https://img.shields.io/badge/-Edi_Hasaj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edihasaj)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/edihasaj)
-mmit
