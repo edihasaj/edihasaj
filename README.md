@@ -12,6 +12,7 @@ Coding is becoming a commodity, but good product judgment, domain context, relia
 
 ## Open Source
 
+- 🧠 **[Recall](https://github.com/edihasaj/recall)** - local memory layer for coding agents with repo context, lifecycle hooks, MCP tools, and maintenance workflows.
 - ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** - Python TUS protocol server implementation.
 
 ## Projects
