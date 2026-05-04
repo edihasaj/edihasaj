@@ -9,6 +9,7 @@
 ## Open Source
 
 - 🧠 **[Recall](https://github.com/edihasaj/recall)** - local memory layer for coding agents.
+- ⚡ **[slash-x](https://github.com/edihasaj/slash-x)** - local X/Twitter CLI for posting, replying, reading, and search.
 - ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** - Python TUS protocol server.
 
 ## Projects
