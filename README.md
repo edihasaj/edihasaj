@@ -14,13 +14,14 @@
 
 ## Projects
 
+- 🐙 **[Oktapod](https://oktapod.ai)** - personal agent runtime.
+- 🤖 **[Agentic Suite](https://agenticsuite.io)** - AI workflow automation platform.
 - ⚖️ **[Neni](https://neni.me)** - Kosovo law RAG with citations.
 - 📊 **[Dialekt AI](https://dialektai.com)** - AI over business data.
 - 🇪🇺 **[Eunifyer](https://eunifyer.com)** - cloud solution for Europe.
 - 🗣️ **[ChirpGo](https://chirpgo.app)** - offline macOS voice-to-text.
 - 🚀 **[Starterbase](https://starterbase.dev)** - SaaS base for agent-built apps.
 - 🧾 **[Invoicing](https://invoicing.applifyer.com)** - AI invoices and expenses.
-- 🤖 **[Agentic Suite](https://agenticsuite.io)** - agent workflow tools.
 - 📺 **[Teleprompt Overlay](https://teleprompt.applifyer.com)** - teleprompter overlay.
 - 🐛 **[Zapfeed](https://zapfeed.io)** - bug board and help center.
 - 🧩 **[Problem Digest](https://problemdigest.com)** - problem discovery.
@@ -66,3 +67,4 @@ AI-first systems, cloud ERP (One replacing Microsoft Dynamics NAV), fraud detect
 [![Website](https://img.shields.io/badge/-edihasaj.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://edihasaj.com)
 [![LinkedIn](https://img.shields.io/badge/-Edi_Hasaj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edihasaj)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/edihasaj)
+mmit
