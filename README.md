@@ -4,61 +4,64 @@
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-I build software, AI systems, and agents that connect to real workflows.
-
-Mostly focused on making AI useful inside products, old systems, business data, legal data, voice workflows, and the boring parts of software that still need to work every day.
-
-Coding is becoming a commodity, but good product judgment, domain context, reliability, and shipping still matter a lot.
+> Building AI systems, agents, and products that connect to real workflows. Code is getting cheaper; context, reliability, and shipping still matter.
 
 ## Open Source
 
-- 🧠 **[Recall](https://github.com/edihasaj/recall)** - local memory layer for coding agents with repo context, lifecycle hooks, MCP tools, and maintenance workflows.
-- ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** - Python TUS protocol server implementation.
+- 🧠 **[Recall](https://github.com/edihasaj/recall)** - local memory layer for coding agents.
+- ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** - Python TUS protocol server.
 
 ## Projects
 
-- ⚖️ **[Neni](https://neni.me)** - RAG over Kosovo laws. Ask in Albanian, Gheg, English, slang, no diacritics, and get the right article back with citations.
-- 📊 **[Dialekt AI](https://dialektai.com)** - AI over business data with schema-aware prompts, glossary builder, joins, aggregations, and business vocabulary.
-- 🇪🇺 **[Eunifyer](https://eunifyer.com)** - cloud-based solution for Europe.
-- 🗣️ **[ChirpGo](https://chirpgo.app)** - local voice-to-text for macOS. No internet, no waiting, just speak and get text.
-- 🚀 **[Starterbase](https://starterbase.dev)** - app foundation so agents and developers can focus on logic instead of rebuilding the same scaffolding.
-- 🧾 **[Invoicing](https://invoicing.applifyer.com)** - simple invoicing and expense flow with AI extraction, routing, and accountant-ready exports.
-- 🤖 **[Agentic Suite](https://agenticsuite.io)** - tools around agents and agentic workflows.
-- 📺 **[Teleprompt Overlay](https://teleprompt.applifyer.com)** - teleprompter overlay for presentations and recording.
+- ⚖️ **[Neni](https://neni.me)** - Kosovo law RAG with citations.
+- 📊 **[Dialekt AI](https://dialektai.com)** - AI over business data.
+- 🇪🇺 **[Eunifyer](https://eunifyer.com)** - cloud solution for Europe.
+- 🗣️ **[ChirpGo](https://chirpgo.app)** - offline macOS voice-to-text.
+- 🚀 **[Starterbase](https://starterbase.dev)** - SaaS base for agent-built apps.
+- 🧾 **[Invoicing](https://invoicing.applifyer.com)** - AI invoices and expenses.
+- 🤖 **[Agentic Suite](https://agenticsuite.io)** - agent workflow tools.
+- 📺 **[Teleprompt Overlay](https://teleprompt.applifyer.com)** - teleprompter overlay.
 - 🐛 **[Zapfeed](https://zapfeed.io)** - bug board and help center.
-- 🧩 **[Problem Digest](https://problemdigest.com)** - curated problem-solving resources.
-- 🏢 **[KosovoBiz](https://kosovobiz.com)** - Kosovo business entity registry.
-- 💸 **[SettleLoop](http://settle-loop.applifyer.com)** - split expenses and settle up with friends.
+- 🧩 **[Problem Digest](https://problemdigest.com)** - problem discovery.
+- 🏢 **[KosovoBiz](https://kosovobiz.com)** - Kosovo business registry.
+- 💸 **[SettleLoop](http://settle-loop.applifyer.com)** - split expenses.
 
-## Legacy Projects
+### Legacy
 
-Some older projects are still online or available because they were useful at the time, but they are not the main focus now.
-
-- 🔗 **[EmbedLink](https://embed-link.com)** - link embedding made simple.
-- 📶 **[BLE Priority](https://play.google.com/store/apps/details?id=com.applifyer.blepriority)** - Bluetooth Low Energy device management.
-- 🗺️ **[leaflet-coord-projection](https://github.com/edihasaj/leaflet-coord-projection)** - coordinate projection display for Leaflet maps.
-- 🛒 **[medusa-plugin-reviews](https://github.com/edihasaj/medusa-plugin-reviews)** - reviews plugin for Medusa e-commerce.
-- 📟 **[ecr-bluetooth](https://github.com/edihasaj/ecr-bluetooth)** - Bluetooth fiscal device integration.
-- 📠 **[scanner-ctrl-toshiba](https://github.com/edihasaj/scanner-ctrl-toshiba)** - Toshiba POS scanner control.
-- 🖥️ **[cash-display-toshiba](https://github.com/edihasaj/cash-display-toshiba)** - Toshiba POS cash display management.
-- 📊 **[MetricShot](http://metricshot.dev)** - quick metric snapshots and analytics.
-- 💰 **[Price&Promotion Engine](https://pricepromoengine.com)** - pricing and promotion management.
+- 🔗 **[EmbedLink](https://embed-link.com)** - link embedding.
+- 📶 **[BLE Priority](https://play.google.com/store/apps/details?id=com.applifyer.blepriority)** - BLE device management.
+- 🗺️ **[leaflet-coord-projection](https://github.com/edihasaj/leaflet-coord-projection)** - Leaflet coordinate projection.
+- 🛒 **[medusa-plugin-reviews](https://github.com/edihasaj/medusa-plugin-reviews)** - Medusa reviews plugin.
+- 📟 **[ecr-bluetooth](https://github.com/edihasaj/ecr-bluetooth)** - Bluetooth fiscal integration.
+- 📠 **[scanner-ctrl-toshiba](https://github.com/edihasaj/scanner-ctrl-toshiba)** - Toshiba scanner control.
+- 🖥️ **[cash-display-toshiba](https://github.com/edihasaj/cash-display-toshiba)** - Toshiba cash display.
+- 📊 **[MetricShot](http://metricshot.dev)** - metric snapshots.
+- 💰 **[Price&Promotion Engine](https://pricepromoengine.com)** - pricing and promotions.
 
 ## Past Work
 
-Worked across AI-first systems, cloud ERP (One replacing Microsoft Dynamics NAV), fraud detection, GIS/geospatial platforms, payroll, defense, and government/public/private-sector software.
+AI-first systems, cloud ERP (One replacing Microsoft Dynamics NAV), fraud detection, GIS/geospatial, payroll, defense, and public/private-sector software.
 
-## Direction
+## GitHub Activity
 
-I am shifting more towards open source where the code is useful as a pattern.
+![GitHub Contribution Graph](https://ghchart.rshah.org/edihasaj)
 
-The real value is usually context, reliability, data, support, integrations, and knowing what should actually be built.
+## What I'm Doing
 
-If something helps people move faster or understand how agents and AI systems should connect to real workflows, it probably should be open.
+- **Opening more code** - especially useful agent, memory, and workflow patterns.
+- **Building AI products** - tools that connect to real business and government systems.
+- **Writing on [edihasaj.com](https://edihasaj.com)** - software, AI, and thinking.
+
+## Latest Blog Posts from edihasaj.com
+
+<!-- BLOG-POST-LIST:START -->
+- [Blogging’s AI Evolution: Why Human Stories Matter More Than Ever](https://edihasaj.com/posts/blogging-s-ai-evolution)
+- [The Engineer’s Guide to ERP Migration: How We Left Dynamics NAV Behind](https://edihasaj.com/posts/the-engineers-guide-to-erp-migraition-how-we-left-navision-behind)
+<!-- BLOG-POST-LIST:END -->
 
 ## Connect
 
-- 🐦 X: [@hasajedi](https://x.com/hasajedi)
-- 🌐 Website: [edihasaj.com](https://edihasaj.com)
-- 💼 LinkedIn: [Edi Hasaj](https://www.linkedin.com/in/edihasaj)
-- 🧑‍💻 GitHub: [edihasaj](https://github.com/edihasaj)
+[![Twitter](https://img.shields.io/badge/-@hasajedi-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/hasajedi)
+[![Website](https://img.shields.io/badge/-edihasaj.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://edihasaj.com)
+[![LinkedIn](https://img.shields.io/badge/-Edi_Hasaj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edihasaj)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/edihasaj)

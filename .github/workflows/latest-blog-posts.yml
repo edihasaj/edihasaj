@@ -1,0 +1,74 @@
+name: Update latest blog posts
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README from edihasaj.com feed
+        run: |
+          curl -fsSL https://edihasaj.com/atom.xml -o /tmp/edihasaj-atom.xml
+
+          python3 <<'PY'
+          from pathlib import Path
+          import html
+          import xml.etree.ElementTree as ET
+
+          feed_path = Path("/tmp/edihasaj-atom.xml")
+          readme_path = Path("README.md")
+          start = "<!-- BLOG-POST-LIST:START -->"
+          end = "<!-- BLOG-POST-LIST:END -->"
+
+          root = ET.fromstring(feed_path.read_bytes())
+          ns = {"atom": "http://www.w3.org/2005/Atom"}
+          posts = []
+
+          for entry in root.findall("atom:entry", ns)[:5]:
+              title_node = entry.find("atom:title", ns)
+              link_node = entry.find("atom:link[@rel='alternate']", ns)
+
+              if title_node is None or link_node is None:
+                  continue
+
+              title = html.unescape("".join(title_node.itertext()).strip())
+              href = link_node.attrib.get("href", "").strip()
+
+              if title and href:
+                  posts.append(f"- [{title}]({href})")
+
+          if not posts:
+              raise SystemExit("No blog posts found in feed")
+
+          readme = readme_path.read_text(encoding="utf-8")
+
+          if start not in readme or end not in readme:
+              raise SystemExit("README blog markers not found")
+
+          before, rest = readme.split(start, 1)
+          _, after = rest.split(end, 1)
+          next_readme = before + start + "\n" + "\n".join(posts) + "\n" + end + after
+
+          readme_path.write_text(next_readme, encoding="utf-8")
+          PY
+
+      - name: Commit README changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No blog post changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update latest blog posts"
+          git push
