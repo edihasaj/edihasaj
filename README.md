@@ -4,56 +4,60 @@
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-> Making AI more usable. Making human lives easier. Bridging the gap between complex technology and the people it should serve.
+I build software, AI systems, and agents that connect to real workflows.
 
-## What I Do
+Mostly focused on making AI useful inside products, old systems, business data, legal data, voice workflows, and the boring parts of software that still need to work every day.
 
-- 🤖 Multi-agent AI systems, RAG pipelines, and LLM integrations
-- 🏗️ Enterprise platforms, ERP systems, and cloud-native architectures
-- 📱 Cross-platform mobile apps (iOS, Android, Flutter, React Native)
-- ☁️ Cloud infrastructure, Kubernetes, CI/CD, and DevOps at scale
-- 🧠 Machine learning, computer vision, and NLP in production
-- 🔧 System design, microservices, and end-to-end product delivery
-
-## Apps
-
-- 🗣️ **[Dialekt AI](https://dialektai.com)** AI-powered language learning
-- 🤖 **[Agentic Suite](https://agenticsuite.io)** Suite of AI agent tools
-- 📺 **[Teleprompt Overlay](https://teleprompt.applifyer.com)** Teleprompter overlay for presentations
-- 🔗 **[EmbedLink](https://embed-link.com)** Link embedding made simple
-- 🐛 **[Zapfeed](https://zapfeed.io)** Bug board and help center
-- 📶 **[BLE Priority](https://play.google.com/store/apps/details?id=com.applifyer.blepriority)** Bluetooth Low Energy device management
-- 🧩 **[Problem Digest](https://problemdigest.com)** Curated problem-solving resources
-- 📊 **[MetricShot](http://metricshot.dev)** Quick metric snapshots and analytics
-- 💰 **[Price&Promotion Engine](https://pricepromoengine.com)** Pricing and promotion management
-- 🏢 **[XK Business Entities](https://xk-business.applifyer.com)** Kosovo business entity registry
-- 🚀 **[Starterbase](https://starterbase.dev)** SaaS starter templates
-- 🧾 **[Invoicing](https://invoicing.applifyer.com)** Simple invoicing platform
-- 🇪🇺 **[Eunifyer](https://eunifyer.app)** Cloud-based solution for Europe
-- 🐦 **[ChirpGo](https://chirpgo.app)** On-device AI voice-to-text for macOS (50+ languages, fully offline)
-- 💸 **[SettleLoop](http://settle-loop.applifyer.com)** Split expenses and settle up with friends
+Coding is becoming a commodity, but good product judgment, domain context, reliability, and shipping still matter a lot.
 
 ## Open Source
 
-- ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** Python TUS protocol server implementation
-- 📡 **[detect-moevement-lorawan](https://github.com/edihasaj/detect-moevement-lorawan)** IoT motion detection via LoRaWAN
-- 🗺️ **[leaflet-coord-projection](https://github.com/edihasaj/leaflet-coord-projection)** Coordinate projection display for Leaflet maps
-- 🛒 **[medusa-plugin-reviews](https://github.com/edihasaj/medusa-plugin-reviews)** Reviews plugin for Medusa e-commerce
-- 🌡️ **[environmental-sensing](https://github.com/edihasaj/environmental-sensing)** Environmental sensor data collection
-- 📟 **[ecr-bluetooth](https://github.com/edihasaj/ecr-bluetooth)** Bluetooth fiscal device integration (Datecs)
-- 🖥️ **[cash-display-toshiba](https://github.com/edihasaj/cash-display-toshiba)** Toshiba POS cash display management
-- 📠 **[scanner-ctrl-toshiba](https://github.com/edihasaj/scanner-ctrl-toshiba)** Toshiba POS scanner control
-- 💾 **[FtpService](https://github.com/edihasaj/FtpService)** FTP service utility in C#
+- ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** - Python TUS protocol server implementation.
 
-## Key Achievements
+## Projects
 
-- 🛡️ **Defense AI Systems** Secure RAG and MCP servers for military applications at NATO Vendor
-- 🏬 **Enterprise ERP Replacement** Fully replaced Microsoft Dynamics NAV for Sweden's largest resellers
-- 🔒 **SOC 2-Ready Payroll Platform** Halved processing time and reduced maintenance costs
-- 🛡️ **AI Fraud Detection** Platform protecting seniors and businesses from online scams
-- 📡 **Radar Classification** >95% precision for drone vs. bird detection in critical infrastructure
-- 🌍 **Kosovo's National Water Information System** Mission-critical GIS platform used daily by government agencies
+- ⚖️ **[Neni](https://neni.me)** - RAG over Kosovo laws. Ask in Albanian, Gheg, English, slang, no diacritics, and get the right article back with citations.
+- 📊 **[Dialekt AI](https://dialektai.com)** - AI over business data with schema-aware prompts, glossary builder, joins, aggregations, and business vocabulary.
+- 🇪🇺 **[Eunifyer](https://eunifyer.com)** - cloud-based solution for Europe.
+- 🗣️ **[ChirpGo](https://chirpgo.app)** - local voice-to-text for macOS. No internet, no waiting, just speak and get text.
+- 🚀 **[Starterbase](https://starterbase.dev)** - app foundation so agents and developers can focus on logic instead of rebuilding the same scaffolding.
+- 🧾 **[Invoicing](https://invoicing.applifyer.com)** - simple invoicing and expense flow with AI extraction, routing, and accountant-ready exports.
+- 🤖 **[Agentic Suite](https://agenticsuite.io)** - tools around agents and agentic workflows.
+- 📺 **[Teleprompt Overlay](https://teleprompt.applifyer.com)** - teleprompter overlay for presentations and recording.
+- 🐛 **[Zapfeed](https://zapfeed.io)** - bug board and help center.
+- 🧩 **[Problem Digest](https://problemdigest.com)** - curated problem-solving resources.
+- 🏢 **[KosovoBiz](https://kosovobiz.com)** - Kosovo business entity registry.
+- 💸 **[SettleLoop](http://settle-loop.applifyer.com)** - split expenses and settle up with friends.
+
+## Legacy Projects
+
+Some older projects are still online or available because they were useful at the time, but they are not the main focus now.
+
+- 🔗 **[EmbedLink](https://embed-link.com)** - link embedding made simple.
+- 📶 **[BLE Priority](https://play.google.com/store/apps/details?id=com.applifyer.blepriority)** - Bluetooth Low Energy device management.
+- 🗺️ **[leaflet-coord-projection](https://github.com/edihasaj/leaflet-coord-projection)** - coordinate projection display for Leaflet maps.
+- 🛒 **[medusa-plugin-reviews](https://github.com/edihasaj/medusa-plugin-reviews)** - reviews plugin for Medusa e-commerce.
+- 📟 **[ecr-bluetooth](https://github.com/edihasaj/ecr-bluetooth)** - Bluetooth fiscal device integration.
+- 📠 **[scanner-ctrl-toshiba](https://github.com/edihasaj/scanner-ctrl-toshiba)** - Toshiba POS scanner control.
+- 🖥️ **[cash-display-toshiba](https://github.com/edihasaj/cash-display-toshiba)** - Toshiba POS cash display management.
+- 📊 **[MetricShot](http://metricshot.dev)** - quick metric snapshots and analytics.
+- 💰 **[Price&Promotion Engine](https://pricepromoengine.com)** - pricing and promotion management.
+
+## Past Work
+
+Worked across AI-first systems, cloud ERP (One replacing Microsoft Dynamics NAV), fraud detection, GIS/geospatial platforms, payroll, defense, and government/public/private-sector software.
+
+## Direction
+
+I am shifting more towards open source where the code is useful as a pattern.
+
+The real value is usually context, reliability, data, support, integrations, and knowing what should actually be built.
+
+If something helps people move faster or understand how agents and AI systems should connect to real workflows, it probably should be open.
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@hasajedi-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/hasajedi) [![LinkedIn](https://img.shields.io/badge/-Edi_Hasaj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edihasaj) [![Instagram](https://img.shields.io/badge/-@edihasaj-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/edihasaj) [![Website](https://img.shields.io/badge/-edihasaj.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://edihasaj.com) [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/edihasaj)
+- 🐦 X: [@hasajedi](https://x.com/hasajedi)
+- 🌐 Website: [edihasaj.com](https://edihasaj.com)
+- 💼 LinkedIn: [Edi Hasaj](https://www.linkedin.com/in/edihasaj)
+- 🧑‍💻 GitHub: [edihasaj](https://github.com/edihasaj)
