@@ -8,7 +8,7 @@
 
 ## Open Source
 
-- 🧠 **[Recall](https://recallmemory.dev/)** - local memory layer for coding agents. ([source](https://github.com/edihasaj/recall))
+- 🧠 **[Recall](https://recallmemory.dev/)** - quality-gated local memory layer for coding agents. ([source](https://github.com/edihasaj/recall))
 - 🖥️ **[guiport](https://guiport.dev)** - Playwright for desktop apps, built for coding agents. ([source](https://github.com/edihasaj/guiport))
 - ⚡ **[slash-x](https://github.com/edihasaj/slash-x)** - local X/Twitter CLI for posting, replying, reading, and search.
 - 📋 **[Klyp](https://github.com/edihasaj/klyp)** - lightweight macOS menu-bar clipboard manager.
