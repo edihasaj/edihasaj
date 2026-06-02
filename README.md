@@ -12,6 +12,7 @@
 - 🖥️ **[guiport](https://guiport.dev)** - Playwright for desktop apps, built for coding agents. ([source](https://github.com/edihasaj/guiport))
 - 🚢 **[shipyard](https://github.com/edihasaj/shipyard)** - point an agent at a repo + a task, get a PR-ready branch back. End-to-end ship pipeline (task → branch → gates → security + code review → PR); your configs stay private.
 - ⚡ **[slash-x](https://github.com/edihasaj/slash-x)** - local X/Twitter CLI for posting, replying, reading, and search.
+- 💼 **[slash-linkedin](https://github.com/edihasaj/slash-linkedin)** - local LinkedIn CLI for posting to your feed from the command line.
 - 📋 **[Klyp](https://github.com/edihasaj/klyp)** - lightweight macOS menu-bar clipboard manager.
 - ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** - Python TUS protocol server.
 
