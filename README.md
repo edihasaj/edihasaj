@@ -10,7 +10,7 @@
 
 - 🧠 **[Recall](https://recallmemory.dev/)** - quality-gated local memory layer for coding agents. macOS, Linux, and Windows. ([source](https://github.com/edihasaj/recall))
 - 🖥️ **[guiport](https://guiport.dev)** - Playwright for desktop apps, built for coding agents. ([source](https://github.com/edihasaj/guiport))
-- 🧪 **[vmlab](https://github.com/edihasaj/vmlab)** - one CLI for agents to install, set up, test, and verify software across any reachable target (Linux/Windows VMs, phones, simulators, Macs).
+- 🧪 **[vmlab](https://github.com/edihasaj/vmlab)** - one CLI for agents to test and verify software across any target.
 - 🚢 **[shipyard](https://github.com/edihasaj/shipyard)** - point an agent at a repo + task, get a PR-ready branch back (gates, security + code review).
 - ⚡ **[slash-x](https://github.com/edihasaj/slash-x)** - local X/Twitter CLI for posting, replying, reading, and search.
 - 💼 **[slash-linkedin](https://github.com/edihasaj/slash-linkedin)** - local LinkedIn CLI for posting to your feed from the command line.
