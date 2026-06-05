@@ -8,6 +8,7 @@
 
 ## Open Source
 
+- 🌐 **[Universal Memory Protocol](https://universalmemoryprotocol.io)** - open standard for agent memory; the third interop layer beside MCP (tools) and A2A (coordination). ([source](https://github.com/edihasaj/universal-memory-protocol))
 - 🧠 **[Recall](https://recallmemory.dev/)** - quality-gated local memory layer for coding agents. macOS, Linux, and Windows. ([source](https://github.com/edihasaj/recall))
 - 🖥️ **[guiport](https://guiport.dev)** - Playwright for desktop apps, built for coding agents. ([source](https://github.com/edihasaj/guiport))
 - 🧪 **[vmlab](https://github.com/edihasaj/vmlab)** - one CLI for agents to test and verify software across any target.
