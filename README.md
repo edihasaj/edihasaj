@@ -14,7 +14,11 @@
 - 🧪 **[vmlab](https://github.com/edihasaj/vmlab)** - one CLI for agents to test and verify software across any target.
 - 🚢 **[shipyard](https://github.com/edihasaj/shipyard)** - point an agent at a repo + task, get a PR-ready branch back (gates, security + code review).
 - ⚡ **[slash-x](https://github.com/edihasaj/slash-x)** - local X/Twitter CLI for posting, replying, reading, and search.
-- 💼 **[slash-linkedin](https://github.com/edihasaj/slash-linkedin)** - local LinkedIn CLI for posting to your feed from the command line.
+- 💼 **[slash-linkedin](https://github.com/edihasaj/slash-linkedin)** - local LinkedIn CLI: post, repost, and comment from the command line.
+- 👽 **[slash-reddit](https://github.com/edihasaj/slash-reddit)** - local Reddit CLI: comment, reply, submit, and read via the official API.
+- 🦋 **[slash-bluesky](https://github.com/edihasaj/slash-bluesky)** - local Bluesky CLI: post and reply over the AT Protocol.
+- 🟧 **[slash-hn](https://github.com/edihasaj/slash-hn)** - local Hacker News CLI: comment and reply from the command line.
+- 🐙 **[slash-github](https://github.com/edihasaj/slash-github)** - local GitHub CLI: comment on issues and pull requests.
 - 📋 **[Klyp](https://github.com/edihasaj/klyp)** - lightweight macOS menu-bar clipboard manager.
 - ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** - Python TUS protocol server.
 
