@@ -20,9 +20,6 @@
 - 🟧 **[slash-hn](https://github.com/edihasaj/slash-hn)** - local Hacker News CLI: comment and reply from the command line.
 - 🐙 **[slash-github](https://github.com/edihasaj/slash-github)** - local GitHub CLI: comment on issues and pull requests.
 - 📋 **[Klyp](https://github.com/edihasaj/klyp)** - lightweight macOS menu-bar clipboard manager.
-- 🧬 **[Universal Memory Protocol](https://github.com/edihasaj/universal-memory-protocol)** - open standard for agent memory; the third interop layer beside MCP (tools) and A2A (coordination).
-- 🧪 **[vmlab](https://github.com/edihasaj/vmlab)** - one CLI for agents to install, set up, test, and verify software across any reachable target.
-- 🚢 **[shipyard](https://github.com/edihasaj/shipyard)** - point an agent at a repo + task and run an end-to-end ship pipeline (Go CLI + embedded skill).
 - ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** - Python TUS protocol server.
 
 ## Projects
