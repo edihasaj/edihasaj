@@ -26,10 +26,8 @@
 
 - 🐙 **[Oktapod](https://oktapod.ai)** - personal agent runtime.
 - 🤖 **[Agentic Suite](https://agenticsuite.io)** - AI workflow automation platform.
-- ⌨️ **[Foretype](https://foretype.app)** - system-wide, fully-local AI autocompletion for macOS.
 - ⚖️ **[Neni](https://neni.me)** - Kosovo law RAG with citations.
 - 📊 **[Dialekt AI](https://dialektai.com)** - AI over business data.
-- 🗃️ **[ChatSQL](https://dialektai.com)** - query your database in plain English.
 - 🇪🇺 **[Eunifyer](https://eunifyer.com)** - cloud solution for Europe.
 - 🗣️ **[ChirpGo](https://chirpgo.app)** - offline macOS voice-to-text.
 - 🚀 **[Starterbase](https://starterbase.dev)** - SaaS base for agent-built apps.
