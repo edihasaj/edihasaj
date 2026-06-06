@@ -20,14 +20,19 @@
 - 🟧 **[slash-hn](https://github.com/edihasaj/slash-hn)** - local Hacker News CLI: comment and reply from the command line.
 - 🐙 **[slash-github](https://github.com/edihasaj/slash-github)** - local GitHub CLI: comment on issues and pull requests.
 - 📋 **[Klyp](https://github.com/edihasaj/klyp)** - lightweight macOS menu-bar clipboard manager.
+- 🧬 **[Universal Memory Protocol](https://github.com/edihasaj/universal-memory-protocol)** - open standard for agent memory; the third interop layer beside MCP (tools) and A2A (coordination).
+- 🧪 **[vmlab](https://github.com/edihasaj/vmlab)** - one CLI for agents to install, set up, test, and verify software across any reachable target.
+- 🚢 **[shipyard](https://github.com/edihasaj/shipyard)** - point an agent at a repo + task and run an end-to-end ship pipeline (Go CLI + embedded skill).
 - ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** - Python TUS protocol server.
 
 ## Projects
 
 - 🐙 **[Oktapod](https://oktapod.ai)** - personal agent runtime.
 - 🤖 **[Agentic Suite](https://agenticsuite.io)** - AI workflow automation platform.
+- ⌨️ **[Foretype](https://foretype.app)** - system-wide, fully-local AI autocompletion for macOS.
 - ⚖️ **[Neni](https://neni.me)** - Kosovo law RAG with citations.
 - 📊 **[Dialekt AI](https://dialektai.com)** - AI over business data.
+- 🗃️ **[ChatSQL](https://dialektai.com)** - query your database in plain English.
 - 🇪🇺 **[Eunifyer](https://eunifyer.com)** - cloud solution for Europe.
 - 🗣️ **[ChirpGo](https://chirpgo.app)** - offline macOS voice-to-text.
 - 🚀 **[Starterbase](https://starterbase.dev)** - SaaS base for agent-built apps.
