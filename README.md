@@ -67,11 +67,11 @@ AI-first systems, cloud ERP (One replacing Microsoft Dynamics NAV), fraud detect
 ## Latest Blog Posts from edihasaj.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Universal Memory Protocol: Simple Agent Memory That Moves](https://edihasaj.com/posts/universal-memory-protocol-simple-agent-memory)
 - [Everything Will Be Agent Use](https://edihasaj.com/posts/everything-will-be-agent-use)
 - [Security in the age of AI coders](https://edihasaj.com/posts/security-in-the-age-of-ai-coders)
 - [Recall: The Memory My Agents Were Missing](https://edihasaj.com/posts/recall-the-memory-my-agents-were-missing)
 - [Building Neni: legal search that actually has to know the law](https://edihasaj.com/posts/building-neni-statute-atlas)
-- [2026 is going to be the year of open source](https://edihasaj.com/posts/2026-is-going-to-be-the-year-of-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
