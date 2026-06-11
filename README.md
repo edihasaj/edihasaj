@@ -13,6 +13,7 @@
 - 🖥️ **[guiport](https://guiport.dev)** - Playwright for desktop apps, built for coding agents. ([source](https://github.com/edihasaj/guiport))
 - 🧪 **[vmlab](https://github.com/edihasaj/vmlab)** - one CLI for agents to test and verify software across any target.
 - 🚢 **[shipyard](https://github.com/edihasaj/shipyard)** - point an agent at a repo + task, get a PR-ready branch back (gates, security + code review).
+- 📈 **[spendwatch](https://github.com/edihasaj/spendwatch)** - token/$ leaderboards across coding agents (Claude Code, Codex): which tool calls, commands, and prompts spend the most — so you know what to automate.
 - ⚡ **[slash-x](https://github.com/edihasaj/slash-x)** - local X/Twitter CLI for posting, replying, reading, and search.
 - 💼 **[slash-linkedin](https://github.com/edihasaj/slash-linkedin)** - local LinkedIn CLI: post, repost, and comment from the command line.
 - 👽 **[slash-reddit](https://github.com/edihasaj/slash-reddit)** - local Reddit CLI: comment, reply, submit, and read via the official API.
