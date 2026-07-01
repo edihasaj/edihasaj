@@ -6,6 +6,8 @@
 
 > Building AI systems, agents, and products that connect to real workflows. Code is getting cheaper; context, reliability, and shipping still matter.
 
+<!-- APPS:START -->
+
 ## Open Source
 
 - 🌐 **[Universal Memory Protocol](https://universalmemoryprotocol.io)** - open standard for agent memory. ([source](https://github.com/edihasaj/universal-memory-protocol))
@@ -51,6 +53,8 @@
 - 🖥️ **[cash-display-toshiba](https://github.com/edihasaj/cash-display-toshiba)** - Toshiba cash display.
 - 📊 **[MetricShot](http://metricshot.dev)** - metric snapshots.
 - 💰 **[Price&Promotion Engine](https://pricepromoengine.com)** - pricing and promotions.
+
+<!-- APPS:END -->
 
 ## Past Work
 
