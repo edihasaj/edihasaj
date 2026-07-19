@@ -13,6 +13,7 @@
 - 🌐 **[Universal Memory Protocol](https://universalmemoryprotocol.io)** - open standard for agent memory. ([source](https://github.com/edihasaj/universal-memory-protocol))
 - 🧠 **[Recall](https://recallmemory.dev/)** - quality-gated local memory layer for coding agents. macOS, Linux, and Windows. ([source](https://github.com/edihasaj/recall))
 - 🖥️ **[guiport](https://guiport.dev)** - Playwright for desktop apps, built for coding agents. ([source](https://github.com/edihasaj/guiport))
+- 🗄️ **[Strata](https://github.com/edihasaj/strata)** - modern YAML-driven homelab dashboard with live status and previews.
 - 🧪 **[vmlab](https://github.com/edihasaj/vmlab)** - one CLI for agents to test and verify software across any target.
 - 🚢 **[shipyard](https://github.com/edihasaj/shipyard)** - point an agent at a repo + task, get a PR-ready branch back (gates, security + code review).
 - 📈 **[spendwatch](https://github.com/edihasaj/spendwatch)** - token/$ leaderboards for coding agents (Claude Code, Codex): see what your tools and prompts cost.
