@@ -11,7 +11,7 @@
 ## Open Source
 
 - 🌐 **[Universal Memory Protocol](https://universalmemoryprotocol.io)** - open standard for agent memory. ([source](https://github.com/edihasaj/universal-memory-protocol))
-- 🧠 **[Recall](https://recallmemory.dev/)** - quality-gated local memory layer for coding agents. macOS, Linux, and Windows. ([source](https://github.com/edihasaj/recall))
+- 🧠 **[Recall](https://recallmemory.dev/)** - quality-gated local memory layer for coding agents with hook-based capture, injection, and deterministic cleanup. ([source](https://github.com/edihasaj/recall))
 - 🖥️ **[guiport](https://guiport.dev)** - Playwright for desktop apps, built for coding agents. ([source](https://github.com/edihasaj/guiport))
 - 🧪 **[vmlab](https://github.com/edihasaj/vmlab)** - one CLI for agents to test and verify software across any target.
 - 🚢 **[shipyard](https://github.com/edihasaj/shipyard)** - point an agent at a repo + task, get a PR-ready branch back (gates, security + code review).
