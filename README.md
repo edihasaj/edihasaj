@@ -29,6 +29,7 @@
 
 ## Projects
 
+- ☁️ **[Recall Cloud](https://app.recallmemory.dev)** - hosted memory sync, search, and team access for agents.
 - 🐙 **[Oktapod](https://oktapod.ai)** - personal agent runtime.
 - 🤖 **[Agentic Suite](https://agenticsuite.io)** - AI workflow automation platform.
 - ⚖️ **[Neni](https://neni.me)** - Kosovo law RAG with citations.
