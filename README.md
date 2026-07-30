@@ -26,6 +26,7 @@
 - 📋 **[Klyp](https://github.com/edihasaj/klyp)** - lightweight macOS menu-bar clipboard manager.
 - ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** - Python TUS protocol server.
 - 🗄️ **[Strata](https://github.com/edihasaj/strata)** - modern YAML-driven homelab dashboard with live status and previews.
+- 🚜 **[farm](https://github.com/edihasaj/farm)** - tmux farm + task queue for running many coding agents in parallel across repos.
 
 ## Projects
 
