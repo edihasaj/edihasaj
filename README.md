@@ -23,12 +23,12 @@
 - 🦋 **[slash-bluesky](https://github.com/edihasaj/slash-bluesky)** - local Bluesky CLI: post and reply over the AT Protocol.
 - 🟧 **[slash-hn](https://github.com/edihasaj/slash-hn)** - local Hacker News CLI: comment and reply from the command line.
 - 🐙 **[slash-github](https://github.com/edihasaj/slash-github)** - local GitHub CLI: comment on issues and pull requests.
-- 🔀 **[Codex Account Switcher](https://github.com/edihasaj/codex-account-switcher)** - native macOS menu-bar switcher for running two isolated Codex desktop accounts.
 - 📋 **[Klyp](https://github.com/edihasaj/klyp)** - lightweight macOS menu-bar clipboard manager.
 - ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** - Python TUS protocol server.
 - 🗄️ **[Strata](https://github.com/edihasaj/strata)** - modern YAML-driven homelab dashboard with live status and previews.
 - 🚜 **[farm](https://github.com/edihasaj/farm)** - tmux farm + task queue for running many coding agents in parallel across repos.
 - 🧭 **[abx](https://github.com/edihasaj/abx)** - fast headless browser for AI coding agents: Playwright-backed, CLI-first.
+- 🔀 **[Codex Account Switcher](https://github.com/edihasaj/codex-account-switcher)** - native macOS menu-bar switcher for running two isolated Codex desktop accounts.
 
 ## Projects
 
