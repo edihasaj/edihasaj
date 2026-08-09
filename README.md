@@ -46,6 +46,7 @@
 - 🧩 **[Problem Digest](https://problemdigest.com)** - problem discovery.
 - 🏢 **[KosovoBiz](https://kosovobiz.com)** - Kosovo business registry.
 - 💸 **[SettleLoop](http://settle-loop.applifyer.com)** - split expenses.
+- 🗓️ **[Calbraid](https://calbraid.com)** - calendar synchronization and scheduling across Google Calendar, Microsoft 365, CalDAV, and ICS.
 
 ### Legacy
 
