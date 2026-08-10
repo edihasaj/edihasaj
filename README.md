@@ -79,11 +79,11 @@ AI-first systems, cloud ERP (One replacing Microsoft Dynamics NAV), fraud detect
 ## Latest Blog Posts from edihasaj.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Paseo Changed Everything About My Multi-Account Codex Setup](https://edihasaj.com/posts/paseo-changed-my-multi-account-codex-setup)
 - [How to Run Two Codex Accounts on macOS with Separate Profiles](https://edihasaj.com/posts/two-codex-accounts-two-dock-icons-macos)
 - [Anthropic Pulled Fable. Build Your Own Intelligence.](https://edihasaj.com/posts/anthropic-pulled-fable-build-your-own-intelligence)
 - [Universal Memory Protocol: Simple Agent Memory That Moves](https://edihasaj.com/posts/universal-memory-protocol-simple-agent-memory)
 - [Everything Will Be Agent Use](https://edihasaj.com/posts/everything-will-be-agent-use)
-- [Security in the age of AI coders](https://edihasaj.com/posts/security-in-the-age-of-ai-coders)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
