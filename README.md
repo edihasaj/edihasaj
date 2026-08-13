@@ -35,6 +35,7 @@
 - ☁️ **[Recall Cloud](https://app.recallmemory.dev)** - hosted memory sync, search, and team access for agents.
 - 🐙 **[Oktapod](https://oktapod.ai)** - personal agent runtime.
 - 🤖 **[Agentic Suite](https://agenticsuite.io)** - AI workflow automation platform.
+- ⌨️ **[Foretype](https://foretype.app)** - system-wide, fully-local AI autocompletion for macOS.
 - ⚖️ **[Neni](https://neni.me)** - Kosovo law RAG with citations.
 - 📊 **[Dialekt AI](https://dialektai.com)** - AI over business data.
 - 🇪🇺 **[Eunifyer](https://eunifyer.com)** - cloud solution for Europe.
