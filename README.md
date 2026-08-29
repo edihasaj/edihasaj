@@ -32,33 +32,34 @@
 
 ## Projects
 
-- ☁️ **[Recall Cloud](https://app.recallmemory.dev)** - hosted memory sync, search, and team access for agents.
 - 🐙 **[Oktapod](https://oktapod.ai)** - personal agent runtime.
+- 🔥 **[Farka](https://farka.ai)** - fine-tune specialized AI models from your own data.
+- 💬 **[Answerplane](https://answerplane.com)** - governed, source-backed answers over your connected data.
 - 🤖 **[Agentic Suite](https://agenticsuite.io)** - AI workflow automation platform.
+- 🗣️ **[ChirpGo](https://chirpgo.app)** - offline macOS voice-to-text.
 - ⌨️ **[Foretype](https://foretype.app)** - system-wide, fully-local AI autocompletion for macOS.
+- 🗓️ **[Calbraid](https://calbraid.com)** - calendar synchronization and scheduling across Google Calendar, Microsoft 365, CalDAV, and ICS.
+- ☁️ **[Recall Cloud](https://app.recallmemory.dev)** - hosted memory sync, search, and team access for agents.
+- 📺 **[Teleprompt Overlay](https://teleprompt.applifyer.com)** - teleprompter overlay.
+- 📶 **[BLE Priority](https://play.google.com/store/apps/details?id=com.applifyer.blepriority)** - BLE device management.
 - ⚖️ **[Neni](https://neni.me)** - Kosovo law RAG with citations.
 - 📊 **[Dialekt AI](https://dialektai.com)** - AI over business data.
 - 🇪🇺 **[Eunifyer](https://eunifyer.com)** - cloud solution for Europe.
-- 🗣️ **[ChirpGo](https://chirpgo.app)** - offline macOS voice-to-text.
 - 🚀 **[Starterbase](https://starterbase.dev)** - SaaS base for agent-built apps.
-- 🧾 **[Invoicing](https://invoicing.applifyer.com)** - AI invoices and expenses.
-- 📺 **[Teleprompt Overlay](https://teleprompt.applifyer.com)** - teleprompter overlay.
-- 🐛 **[Zapfeed](https://zapfeed.io)** - bug board and help center.
 - 🧩 **[Problem Digest](https://problemdigest.com)** - problem discovery.
+- 🐛 **[Zapfeed](https://zapfeed.io)** - bug board and help center.
 - 🏢 **[KosovoBiz](https://kosovobiz.com)** - Kosovo business registry.
+- 🧾 **[Invoicing](https://invoicing.applifyer.com)** - AI invoices and expenses.
 - 💸 **[SettleLoop](http://settle-loop.applifyer.com)** - split expenses.
-- 🗓️ **[Calbraid](https://calbraid.com)** - calendar synchronization and scheduling across Google Calendar, Microsoft 365, CalDAV, and ICS.
 
 ### Legacy
 
 - 🔗 **[EmbedLink](https://embed-link.com)** - link embedding.
-- 📶 **[BLE Priority](https://play.google.com/store/apps/details?id=com.applifyer.blepriority)** - BLE device management.
 - 🗺️ **[leaflet-coord-projection](https://github.com/edihasaj/leaflet-coord-projection)** - Leaflet coordinate projection.
 - 🛒 **[medusa-plugin-reviews](https://github.com/edihasaj/medusa-plugin-reviews)** - Medusa reviews plugin.
 - 📟 **[ecr-bluetooth](https://github.com/edihasaj/ecr-bluetooth)** - Bluetooth fiscal integration.
 - 📠 **[scanner-ctrl-toshiba](https://github.com/edihasaj/scanner-ctrl-toshiba)** - Toshiba scanner control.
 - 🖥️ **[cash-display-toshiba](https://github.com/edihasaj/cash-display-toshiba)** - Toshiba cash display.
-- 📊 **[MetricShot](http://metricshot.dev)** - metric snapshots.
 - 💰 **[Price&Promotion Engine](https://pricepromoengine.com)** - pricing and promotions.
 
 <!-- APPS:END -->
