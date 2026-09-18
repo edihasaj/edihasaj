@@ -1,10 +1,10 @@
 # Hi, I'm Edi 👋
 
-📍 **Prishtinë, Kosovë** | 🧠 **Software Engineer & AI Solutions Architect**
+📍 **Prishtinë, Kosovë** | 🧠 **Software Engineer & Technical Founder**
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-> Building AI systems, agents, and products that connect to real workflows. Code is getting cheaper; context, reliability, and shipping still matter.
+> Over a decade building the software businesses run on: ERPs, platforms, APIs, infra. Now connecting that to AI agents, memory, and local-first tools. Code is getting cheaper; context, reliability, and shipping still matter.
 
 <!-- APPS:START -->
 
@@ -43,7 +43,6 @@
 - 📺 **[Teleprompt Overlay](https://teleprompt.applifyer.com)** - teleprompter overlay.
 - 📶 **[BLE Priority](https://play.google.com/store/apps/details?id=com.applifyer.blepriority)** - BLE device management.
 - ⚖️ **[Neni](https://neni.me)** - Kosovo law RAG with citations.
-- 📊 **[Dialekt AI](https://dialektai.com)** - AI over business data.
 - 🇪🇺 **[Eunifyer](https://eunifyer.com)** - cloud solution for Europe.
 - 🚀 **[Starterbase](https://starterbase.dev)** - SaaS base for agent-built apps.
 - 🧩 **[Problem Digest](https://problemdigest.com)** - problem discovery.
