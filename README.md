@@ -37,6 +37,7 @@
 - 💬 **[Answerplane](https://answerplane.com)** - governed, source-backed answers over your connected data.
 - 🤖 **[Agentic Suite](https://agenticsuite.io)** - AI workflow automation platform.
 - 🗣️ **[ChirpGo](https://chirpgo.app)** - offline macOS voice-to-text.
+- 📌 **[Tacktab](https://tacktab.com)** - pin an Android tablet or iPad to one web page, controlled from Home Assistant.
 - ⌨️ **[Foretype](https://foretype.app)** - system-wide, fully-local AI autocompletion for macOS.
 - 🗓️ **[Calbraid](https://calbraid.com)** - calendar synchronization and scheduling across Google Calendar, Microsoft 365, CalDAV, and ICS.
 - ☁️ **[Recall Cloud](https://app.recallmemory.dev)** - hosted memory sync, search, and team access for agents.
