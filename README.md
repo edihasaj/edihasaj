@@ -81,11 +81,11 @@ AI-first systems, cloud ERP (One replacing Microsoft Dynamics NAV), fraud detect
 ## Latest Blog Posts from edihasaj.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Codex, Paseo, and the multi-account problem I still haven’t solved](https://edihasaj.com/codex-paseo-multi-account-subscriptions/)
 - [Playing with one-pass decision models](https://edihasaj.com/playing-with-one-pass-decision-models/)
 - [My AI playbook](https://edihasaj.com/my-ai-playbook/)
 - [Jev is a smart if statement, and that is the point](https://edihasaj.com/jev-is-a-smart-if-statement/)
 - [Why LLM writing does not feel human](https://edihasaj.com/why-llm-writing-does-not-feel-human/)
-- [Teaching a 9B model to route support requests](https://edihasaj.com/farka-qwen-support-routing/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
