@@ -35,7 +35,7 @@
 - 🐙 **[Oktapod](https://oktapod.ai)** - personal agent runtime.
 - 🔥 **[Farka](https://farka.ai)** - fine-tune specialized AI models from your own data.
 - 💬 **[Answerplane](https://answerplane.com)** - governed, source-backed answers over your connected data.
-- 🤖 **[Agentic Suite](https://agenticsuite.io)** - AI workflow automation platform.
+- <img src="https://agenticsuite.io/icon-512x512.png?v=as-dot-20261018" alt="" width="24" height="24"> **[Agentic Suite](https://agenticsuite.io)** - Custom AI agents built for companies, connected to their data and tools.
 - 🗣️ **[ChirpGo](https://chirpgo.app)** - offline macOS voice-to-text.
 - 📌 **[Tacktab](https://tacktab.com)** - pin an Android tablet or iPad to one web page, controlled from Home Assistant.
 - ⌨️ **[Foretype](https://foretype.app)** - system-wide, fully-local AI autocompletion for macOS.
