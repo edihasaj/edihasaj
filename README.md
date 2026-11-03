@@ -51,6 +51,7 @@
 - 🏢 **[KosovoBiz](https://kosovobiz.com)** - Kosovo business registry.
 - 🧾 **[Invoicing](https://invoicing.applifyer.com)** - AI invoices and expenses.
 - 💸 **[SettleLoop](http://settle-loop.applifyer.com)** - split expenses.
+- 🎙️ **[Fjalim](https://fjalim.com)** - Albanian speech-to-text, captions, and API.
 
 ### Legacy
 
