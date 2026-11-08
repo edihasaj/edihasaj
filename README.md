@@ -14,7 +14,7 @@
 
 - 🌐 **[Universal Memory Protocol](https://universalmemoryprotocol.io)** - open standard for agent memory. ([source](https://github.com/edihasaj/universal-memory-protocol))
 - 🧠 **[Recall](https://recallmemory.dev/)** - portable memory for coding agents. ([source](https://github.com/edihasaj/recall))
-- <img src="https://gatefox.dev/assets/logo.png" alt="" width="24" height="24"> **[GateFox](https://gatefox.dev)** - AI subscriptions and local models in your preferred harness. ([source](https://github.com/edihasaj/gatefox))
+- 🦊 **[GateFox](https://gatefox.dev)** - AI subscriptions and local models in your preferred harness. ([source](https://github.com/edihasaj/gatefox))
 - 🚶 **[Stroll](https://github.com/edihasaj/stroll)** - local coding-agent workspace, forked from Paseo.
 - 🛠️ **[agent](https://github.com/edihasaj/agent)** - shared instructions, skills, and agent setup.
 - 🖥️ **[guiport](https://guiport.dev)** - Playwright for desktop apps, built for coding agents. ([source](https://github.com/edihasaj/guiport))
