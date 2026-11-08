@@ -14,6 +14,7 @@
 
 - 🌐 **[Universal Memory Protocol](https://universalmemoryprotocol.io)** - open standard for agent memory. ([source](https://github.com/edihasaj/universal-memory-protocol))
 - 🧠 **[Recall](https://recallmemory.dev/)** - quality-gated local memory layer for coding agents with hook-based capture, injection, and deterministic cleanup. ([source](https://github.com/edihasaj/recall))
+- 🦊 **[GateFox](https://gatefox.dev)** - use your Claude, ChatGPT, Copilot and local models from Codex, Claude Code and Claude Desktop through one local gateway. ([source](https://github.com/edihasaj/gatefox))
 - 🚶 **[Stroll](https://github.com/edihasaj/stroll)** - a local coding-agent control centre with provider failover and cross-computer agents, forked from Paseo.
 - 🛠️ **[agent](https://github.com/edihasaj/agent)** - portable coding-agent setup with shared instructions, skills, installers, and MCP launchers.
 - 🖥️ **[guiport](https://guiport.dev)** - Playwright for desktop apps, built for coding agents. ([source](https://github.com/edihasaj/guiport))
