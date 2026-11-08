@@ -4,7 +4,7 @@
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-> Software engineer and technical founder. Cloud and infrastructure at the core, applied to AI and agentic systems. Over a decade building and running the software businesses depend on: ERPs, internal platforms, integrations, and APIs. Today: agents, memory, and small focused tools that plug into real business systems. Code is getting cheaper; context, reliability, and shipping still matter.
+> I build AI and business systems. I’m working on reliable agent swarms, memory, and developer tools.
 
 [Selected work and full portfolio](https://edihasaj.com/work/)
 
@@ -13,15 +13,15 @@
 ## Open Source
 
 - 🌐 **[Universal Memory Protocol](https://universalmemoryprotocol.io)** - open standard for agent memory. ([source](https://github.com/edihasaj/universal-memory-protocol))
-- 🧠 **[Recall](https://recallmemory.dev/)** - quality-gated local memory layer for coding agents with hook-based capture, injection, and deterministic cleanup. ([source](https://github.com/edihasaj/recall))
-- 🦊 **[GateFox](https://gatefox.dev)** - use your Claude, ChatGPT, Copilot and local models from Codex, Claude Code and Claude Desktop through one local gateway. ([source](https://github.com/edihasaj/gatefox))
-- 🚶 **[Stroll](https://github.com/edihasaj/stroll)** - a local coding-agent control centre with provider failover and cross-computer agents, forked from Paseo.
-- 🛠️ **[agent](https://github.com/edihasaj/agent)** - portable coding-agent setup with shared instructions, skills, installers, and MCP launchers.
+- 🧠 **[Recall](https://recallmemory.dev/)** - portable memory for coding agents. ([source](https://github.com/edihasaj/recall))
+- <img src="https://gatefox.dev/assets/logo.png" alt="" width="24" height="24"> **[GateFox](https://gatefox.dev)** - AI subscriptions and local models in your preferred harness. ([source](https://github.com/edihasaj/gatefox))
+- 🚶 **[Stroll](https://github.com/edihasaj/stroll)** - local coding-agent workspace, forked from Paseo.
+- 🛠️ **[agent](https://github.com/edihasaj/agent)** - shared instructions, skills, and agent setup.
 - 🖥️ **[guiport](https://guiport.dev)** - Playwright for desktop apps, built for coding agents. ([source](https://github.com/edihasaj/guiport))
 - 🧪 **[vmlab](https://github.com/edihasaj/vmlab)** - one CLI for agents to test and verify software across any target.
-- 🚢 **[shipyard](https://github.com/edihasaj/shipyard)** - point an agent at a repo + task, get a PR-ready branch back (gates, security + code review).
-- 📈 **[spendwatch](https://github.com/edihasaj/spendwatch)** - token/$ leaderboards for coding agents (Claude Code, Codex): see what your tools and prompts cost.
-- 🖼️ **[shotport](https://github.com/edihasaj/shotport)** - token-cheap screenshot capture for agents: text first, budgeted pixels only when needed.
+- 🚢 **[shipyard](https://github.com/edihasaj/shipyard)** - coding tasks to reviewed, PR-ready changes.
+- 📈 **[spendwatch](https://github.com/edihasaj/spendwatch)** - token and cost tracking for coding agents.
+- 🖼️ **[shotport](https://github.com/edihasaj/shotport)** - screenshots and UI text for coding agents.
 - ⚡ **[slash-x](https://github.com/edihasaj/slash-x)** - local X/Twitter CLI for posting, replying, reading, and search.
 - 💼 **[slash-linkedin](https://github.com/edihasaj/slash-linkedin)** - local LinkedIn CLI: post, repost, and comment from the command line.
 - 👽 **[slash-reddit](https://github.com/edihasaj/slash-reddit)** - local Reddit CLI: comment, reply, submit, and read via the official API.
@@ -32,21 +32,21 @@
 - ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** - Python TUS protocol server.
 - 🗄️ **[Strata](https://github.com/edihasaj/strata)** - modern YAML-driven homelab dashboard with live status and previews.
 - 🚜 **[farm](https://github.com/edihasaj/farm)** - tmux farm + task queue for running many coding agents in parallel across repos.
-- 🧮 **[DGX Spark Qwen recipe](https://github.com/edihasaj/spark-qwen-recipe)** *(Public preview)* - an operating profile, GPU clock-cap setup, and temperature sampler for Qwen workers, built on eugr's serving stack.
+- 🧮 **[DGX Spark Qwen recipe](https://github.com/edihasaj/spark-qwen-recipe)** *(Public preview)* - Qwen worker setup based on eugr's stack.
 - 🧭 **[abx](https://github.com/edihasaj/abx)** - fast headless browser for AI coding agents: Playwright-backed, CLI-first.
-- 🔀 **[Codex Account Switcher](https://github.com/edihasaj/codex-account-switcher)** - native macOS menu-bar switcher for running two isolated Codex desktop accounts.
-- 📌 **[Tacktab for Home Assistant](https://github.com/edihasaj/tacktab-homeassistant)** - control Tacktab tablet screens, brightness, pages, and battery reporting from Home Assistant.
-- ♨️ **[VIVAX EcoLink for Home Assistant](https://github.com/edihasaj/ha-vivax-ecolink)** - a community integration for VIVAX EcoLink heat-pump monitoring and Zone-1 power control.
+- 🔀 **[Codex Account Switcher](https://github.com/edihasaj/codex-account-switcher)** - two isolated Codex accounts on macOS.
+- 📌 **[Tacktab for Home Assistant](https://github.com/edihasaj/tacktab-homeassistant)** - tablet controls for Home Assistant.
+- ♨️ **[VIVAX EcoLink for Home Assistant](https://github.com/edihasaj/ha-vivax-ecolink)** - heat-pump monitoring and Zone-1 power control.
 
 ## Projects
 
-- 🔥 **[Farka](https://farka.ai)** - train and evaluate specialist models on your own examples, then export them.
-- 💬 **[Answerplane](https://answerplane.com)** *(Available service)* - governed, source-backed answers over connected business data.
-- 🐙 **[Oktapod](https://oktapod.ai)** *(Not yet public)* - a personal agent runtime with persistent memory, approvals, and auditable actions.
+- 🔥 **[Farka](https://farka.ai)** - train, evaluate, and export specialist models.
+- 💬 **[Answerplane](https://answerplane.com)** *(Available service)* - source-backed answers over business data.
+- 🐙 **[Oktapod](https://oktapod.ai)** *(Not yet public)* - personal agent runtime with memory and approvals.
 - 🗣️ **[ChirpGo](https://chirpgo.app)** - offline macOS voice-to-text.
-- 📌 **[Tacktab](https://tacktab.com)** - pin an Android tablet or iPad to one web page, controlled from Home Assistant.
+- 📌 **[Tacktab](https://tacktab.com)** - turn a tablet into a controlled web display.
 - ⌨️ **[Foretype](https://foretype.app)** - system-wide, fully-local AI autocompletion for macOS.
-- 🗓️ **[Calbraid](https://calbraid.com)** - calendar synchronization and scheduling across Google Calendar, Microsoft 365, CalDAV, and ICS.
+- 🗓️ **[Calbraid](https://calbraid.com)** - calendar sync across Google, Microsoft, CalDAV, and ICS.
 - ☁️ **[Recall Cloud](https://app.recallmemory.dev)** - hosted memory sync, search, and team access for agents.
 - 📺 **[Teleprompt Overlay](https://teleprompt.applifyer.com)** - teleprompter overlay.
 - 📶 **[BLE Priority](https://play.google.com/store/apps/details?id=com.applifyer.blepriority)** - BLE device management.
@@ -62,7 +62,7 @@
 
 ### Legacy
 
-- <img src="https://agenticsuite.io/icon-512x512.png?v=as-dot-20261018" alt="" width="24" height="24"> **[Agentic Suite](https://agenticsuite.io)** - an earlier project for custom AI agents connected to company data and tools.
+- <img src="https://agenticsuite.io/icon-512x512.png?v=as-dot-20261018" alt="" width="24" height="24"> **[Agentic Suite](https://agenticsuite.io)** - custom AI agents connected to company tools and data.
 - 🔗 **[EmbedLink](https://embed-link.com)** - link embedding.
 - 🗺️ **[leaflet-coord-projection](https://github.com/edihasaj/leaflet-coord-projection)** - Leaflet coordinate projection.
 - 🛒 **[medusa-plugin-reviews](https://github.com/edihasaj/medusa-plugin-reviews)** - Medusa reviews plugin.
@@ -70,11 +70,11 @@
 - 📠 **[scanner-ctrl-toshiba](https://github.com/edihasaj/scanner-ctrl-toshiba)** - Toshiba scanner control.
 - 🖥️ **[cash-display-toshiba](https://github.com/edihasaj/cash-display-toshiba)** - Toshiba cash display.
 - 💰 **[Price&Promotion Engine](https://pricepromoengine.com)** - pricing and promotions.
-- 💾 **[FtpService](https://github.com/edihasaj/FtpService)** - a Windows desktop utility for backing up folders to an FTP server.
-- 📡 **[LoRaWAN motion detector](https://github.com/edihasaj/detect-moevement-lorawan)** - an AllThingsTalk experiment using a PIR sensor to trigger LED and email alerts.
+- 💾 **[FtpService](https://github.com/edihasaj/FtpService)** - Windows folder backups over FTP.
+- 📡 **[LoRaWAN motion detector](https://github.com/edihasaj/detect-moevement-lorawan)** - PIR-triggered LED and email alerts with AllThingsTalk.
 - 🗃️ **[cash-drawer-toshiba](https://github.com/edihasaj/cash-drawer-toshiba)** - Toshiba cash drawer control.
 - 📄 **[PIR data-file reader](https://github.com/edihasaj/read-pir-data-file)** - a C# experiment for reading and parsing PIR data files.
-- 🌡️ **[Environmental sensing](https://github.com/edihasaj/environmental-sensing)** - an Arduino environmental-sensing experiment using BME280 sensor libraries.
+- 🌡️ **[Environmental sensing](https://github.com/edihasaj/environmental-sensing)** - Arduino sensing with BME280 sensors.
 
 <!-- APPS:END -->
 
