@@ -14,6 +14,8 @@
 
 - 🌐 **[Universal Memory Protocol](https://universalmemoryprotocol.io)** - open standard for agent memory. ([source](https://github.com/edihasaj/universal-memory-protocol))
 - 🧠 **[Recall](https://recallmemory.dev/)** - quality-gated local memory layer for coding agents with hook-based capture, injection, and deterministic cleanup. ([source](https://github.com/edihasaj/recall))
+- 🚶 **[Stroll](https://github.com/edihasaj/stroll)** - a local coding-agent control centre with provider failover and cross-computer agents, forked from Paseo.
+- 🛠️ **[agent](https://github.com/edihasaj/agent)** - portable coding-agent setup with shared instructions, skills, installers, and MCP launchers.
 - 🖥️ **[guiport](https://guiport.dev)** - Playwright for desktop apps, built for coding agents. ([source](https://github.com/edihasaj/guiport))
 - 🧪 **[vmlab](https://github.com/edihasaj/vmlab)** - one CLI for agents to test and verify software across any target.
 - 🚢 **[shipyard](https://github.com/edihasaj/shipyard)** - point an agent at a repo + task, get a PR-ready branch back (gates, security + code review).
@@ -29,8 +31,11 @@
 - ⭐ **[tuspyserver](https://github.com/edihasaj/tuspyserver)** - Python TUS protocol server.
 - 🗄️ **[Strata](https://github.com/edihasaj/strata)** - modern YAML-driven homelab dashboard with live status and previews.
 - 🚜 **[farm](https://github.com/edihasaj/farm)** - tmux farm + task queue for running many coding agents in parallel across repos.
+- 🧮 **[DGX Spark Qwen recipe](https://github.com/edihasaj/spark-qwen-recipe)** *(Public preview)* - an operating profile, GPU clock-cap setup, and temperature sampler for Qwen workers, built on eugr's serving stack.
 - 🧭 **[abx](https://github.com/edihasaj/abx)** - fast headless browser for AI coding agents: Playwright-backed, CLI-first.
 - 🔀 **[Codex Account Switcher](https://github.com/edihasaj/codex-account-switcher)** - native macOS menu-bar switcher for running two isolated Codex desktop accounts.
+- 📌 **[Tacktab for Home Assistant](https://github.com/edihasaj/tacktab-homeassistant)** - control Tacktab tablet screens, brightness, pages, and battery reporting from Home Assistant.
+- ♨️ **[VIVAX EcoLink for Home Assistant](https://github.com/edihasaj/ha-vivax-ecolink)** - a community integration for VIVAX EcoLink heat-pump monitoring and Zone-1 power control.
 
 ## Projects
 
@@ -64,6 +69,12 @@
 - 📠 **[scanner-ctrl-toshiba](https://github.com/edihasaj/scanner-ctrl-toshiba)** - Toshiba scanner control.
 - 🖥️ **[cash-display-toshiba](https://github.com/edihasaj/cash-display-toshiba)** - Toshiba cash display.
 - 💰 **[Price&Promotion Engine](https://pricepromoengine.com)** - pricing and promotions.
+- 💾 **[FtpService](https://github.com/edihasaj/FtpService)** - a Windows desktop utility for backing up folders to an FTP server.
+- 📡 **[LoRaWAN motion detector](https://github.com/edihasaj/detect-moevement-lorawan)** - an AllThingsTalk experiment using a PIR sensor to trigger LED and email alerts.
+- 🗃️ **[cash-drawer-toshiba](https://github.com/edihasaj/cash-drawer-toshiba)** - Toshiba cash drawer control.
+- 📄 **[PIR data-file reader](https://github.com/edihasaj/read-pir-data-file)** - a C# experiment for reading and parsing PIR data files.
+- 🌡️ **[Environmental sensing](https://github.com/edihasaj/environmental-sensing)** - an Arduino environmental-sensing experiment using BME280 sensor libraries.
+- 🌐 **[Earlier portfolio](https://github.com/edihasaj/portfolio)** - an earlier personal portfolio website.
 
 <!-- APPS:END -->
 
