@@ -43,6 +43,7 @@
 - 🔥 **[Farka](https://farka.ai)** - train, evaluate, and export specialist models.
 - 💬 **[Answerplane](https://answerplane.com)** *(Available service)* - source-backed answers over business data.
 - 🐙 **[Oktapod](https://oktapod.ai)** *(Not yet public)* - personal agent runtime with memory and approvals.
+- 🤖 **[Agentic Suite](https://agenticsuite.io)** - custom AI agents connected to company tools and data.
 - 🗣️ **[ChirpGo](https://chirpgo.app)** - offline macOS voice-to-text.
 - 📌 **[Tacktab](https://tacktab.com)** - turn a tablet into a controlled web display.
 - ⌨️ **[Foretype](https://foretype.app)** - system-wide, fully-local AI autocompletion for macOS.
@@ -62,7 +63,6 @@
 
 ### Legacy
 
-- <img src="https://agenticsuite.io/icon-512x512.png?v=as-dot-20261018" alt="" width="24" height="24"> **[Agentic Suite](https://agenticsuite.io)** - custom AI agents connected to company tools and data.
 - 🔗 **[EmbedLink](https://embed-link.com)** - link embedding.
 - 🗺️ **[leaflet-coord-projection](https://github.com/edihasaj/leaflet-coord-projection)** - Leaflet coordinate projection.
 - 🛒 **[medusa-plugin-reviews](https://github.com/edihasaj/medusa-plugin-reviews)** - Medusa reviews plugin.
