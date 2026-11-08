@@ -40,6 +40,7 @@
 ## Projects
 
 - 🔥 **[Farka](https://farka.ai)** - train and evaluate specialist models on your own examples, then export them.
+- 💬 **[Answerplane](https://answerplane.com)** *(Available service)* - governed, source-backed answers over connected business data.
 - 🐙 **[Oktapod](https://oktapod.ai)** *(Not yet public)* - a personal agent runtime with persistent memory, approvals, and auditable actions.
 - 🗣️ **[ChirpGo](https://chirpgo.app)** - offline macOS voice-to-text.
 - 📌 **[Tacktab](https://tacktab.com)** - pin an Android tablet or iPad to one web page, controlled from Home Assistant.
@@ -60,7 +61,6 @@
 
 ### Legacy
 
-- 💬 **[Answerplane](https://answerplane.com)** *(Past venture)* - governed, source-backed answers over connected business data.
 - <img src="https://agenticsuite.io/icon-512x512.png?v=as-dot-20261018" alt="" width="24" height="24"> **[Agentic Suite](https://agenticsuite.io)** - an earlier project for custom AI agents connected to company data and tools.
 - 🔗 **[EmbedLink](https://embed-link.com)** - link embedding.
 - 🗺️ **[leaflet-coord-projection](https://github.com/edihasaj/leaflet-coord-projection)** - Leaflet coordinate projection.
