@@ -74,7 +74,6 @@
 - 🗃️ **[cash-drawer-toshiba](https://github.com/edihasaj/cash-drawer-toshiba)** - Toshiba cash drawer control.
 - 📄 **[PIR data-file reader](https://github.com/edihasaj/read-pir-data-file)** - a C# experiment for reading and parsing PIR data files.
 - 🌡️ **[Environmental sensing](https://github.com/edihasaj/environmental-sensing)** - an Arduino environmental-sensing experiment using BME280 sensor libraries.
-- 🌐 **[Earlier portfolio](https://github.com/edihasaj/portfolio)** - an earlier personal portfolio website.
 
 <!-- APPS:END -->
 
