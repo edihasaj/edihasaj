@@ -41,7 +41,7 @@
 ## Projects
 
 - 🔥 **[Farka](https://farka.ai)** - train, evaluate, and export specialist models.
-- 💬 **[Answerplane](https://answerplane.com)** *(Available service)* - source-backed answers over business data.
+- 💬 **[Answerplane](https://answerplane.com)** - source-backed answers over business data.
 - 🐙 **[Oktapod](https://oktapod.ai)** *(Not yet public)* - personal agent runtime with memory and approvals.
 - 🤖 **[Agentic Suite](https://agenticsuite.io)** - custom AI agents connected to company tools and data.
 - 🗣️ **[ChirpGo](https://chirpgo.app)** - offline macOS voice-to-text.
